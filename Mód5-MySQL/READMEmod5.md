@@ -16,6 +16,9 @@ El archivo `consultas.sql` está diseñado para demostrar:
 
 ## 🗂️ Estructura de la Base de Datos
 
+### Diagrama EER 
+- Revisar archivo "EER consultas.sql.png"
+
 ### Tablas Principales
 
 1. **Clientes**: Información de usuarios (ID, nombre, email, teléfono, dirección, ciudad)
